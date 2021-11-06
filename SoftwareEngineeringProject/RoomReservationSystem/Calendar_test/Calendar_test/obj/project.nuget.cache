@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFiWzOagkDmtPpQh+VmgES7GtN3ZUCBMZEj17XeDapr5CwDSc9e6uv0K/ONNlVZEfcdjK0RBwsMUd22J16OgYQ==",
+  "success": true,
+  "projectFilePath": "D:\\RoomReservationSystem\\Calendar_test\\Calendar_test\\Calendar_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samli\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\samli\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\samli\\.nuget\\packages\\google.apis.calendar.v3\\1.49.0.2161\\google.apis.calendar.v3.1.49.0.2161.nupkg.sha512",
+    "C:\\Users\\samli\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\samli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
